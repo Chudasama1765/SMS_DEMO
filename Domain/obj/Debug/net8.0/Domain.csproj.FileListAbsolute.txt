@@ -1,5 +1,4 @@
 D:\Zennova Tech\Project\CampusOne\Domain\bin\Debug\net8.0\Domain.deps.json
-D:\Zennova Tech\Project\CampusOne\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 D:\Zennova Tech\Project\CampusOne\Domain\bin\Debug\net8.0\Domain.dll
 D:\Zennova Tech\Project\CampusOne\Domain\bin\Debug\net8.0\Domain.pdb
 D:\Zennova Tech\Project\CampusOne\Domain\bin\Debug\net8.0\Shared.dll
@@ -14,5 +13,4 @@ D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
 D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\Domain.dll
 D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\Domain.pdb
-D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 D:\Zennova Tech\Project\CampusOne\Domain\obj\Debug\net8.0\ref\Domain.dll

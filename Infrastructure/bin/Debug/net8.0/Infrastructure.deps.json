@@ -567,8 +567,6 @@
       },
       "Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
           "Shared": "1.0.0"
         },
         "runtime": {
