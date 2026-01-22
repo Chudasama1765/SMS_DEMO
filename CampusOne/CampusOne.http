@@ -1,0 +1,6 @@
+@CampusOne_HostAddress = http://localhost:5134
+
+GET {{CampusOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
