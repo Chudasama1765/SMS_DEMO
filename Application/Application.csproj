@@ -18,9 +18,13 @@
   <ItemGroup>
     <Folder Include="DTO\" />
     <Folder Include="Features\Student\Validators\" />
-    <Folder Include="Features\Student\Services\" />
     <Folder Include="Interfaces\IServices\" />
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
   </ItemGroup>
 
 </Project>

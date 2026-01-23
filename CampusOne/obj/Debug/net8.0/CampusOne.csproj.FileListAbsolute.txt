@@ -113,3 +113,4 @@ D:\Zennova Tech\Project\CampusOne\CampusOne\obj\Debug\net8.0\refint\CampusOne.dl
 D:\Zennova Tech\Project\CampusOne\CampusOne\obj\Debug\net8.0\CampusOne.pdb
 D:\Zennova Tech\Project\CampusOne\CampusOne\obj\Debug\net8.0\CampusOne.genruntimeconfig.cache
 D:\Zennova Tech\Project\CampusOne\CampusOne\obj\Debug\net8.0\ref\CampusOne.dll
+D:\Zennova Tech\Project\CampusOne\CampusOne\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

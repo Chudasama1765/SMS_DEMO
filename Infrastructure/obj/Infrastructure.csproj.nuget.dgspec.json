@@ -32,7 +32,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Domain.csproj"
+              },
+              "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

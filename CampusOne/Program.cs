@@ -1,4 +1,7 @@
+using Application.Features.Student.Services;
+using Application.Interfaces.IRepositories;
 using Infrastructure.DbContexts;
+using Infrastructure.Implemantation.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +13,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<StudentDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+//Repo Registration
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+//Services Registration
+builder.Services.AddScoped<StudentServices>();
 
 var app = builder.Build();
 
