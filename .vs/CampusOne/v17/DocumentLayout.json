@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Zennova Tech\\Project\\CampusOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|d:\\zennova tech\\project\\campusone\\domain\\entitys\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|solutionrelative:domain\\entitys\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CC1BAAA-A03C-4632-947E-7DB33E6A434D}|Infrastructure\\Infrastructure.csproj|d:\\zennova tech\\project\\campusone\\infrastructure\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC1BAAA-A03C-4632-947E-7DB33E6A434D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|d:\\zennova tech\\project\\campusone\\campusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|solutionrelative:campusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|d:\\zennova tech\\project\\campusone\\campusone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|solutionrelative:campusone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|d:\\zennova tech\\project\\campusone\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DA1CBF9-7313-435C-BA75-DCB4AE30962F}|Shared\\Shared.csproj|d:\\zennova tech\\project\\campusone\\shared\\enums\\rowstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA1CBF9-7313-435C-BA75-DCB4AE30962F}|Shared\\Shared.csproj|solutionrelative:shared\\enums\\rowstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA1CBF9-7313-435C-BA75-DCB4AE30962F}|Shared\\Shared.csproj|d:\\zennova tech\\project\\campusone\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6DA1CBF9-7313-435C-BA75-DCB4AE30962F}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0CC1BAAA-A03C-4632-947E-7DB33E6A434D}|Infrastructure\\Infrastructure.csproj|d:\\zennova tech\\project\\campusone\\infrastructure\\dbcontexts\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC1BAAA-A03C-4632-947E-7DB33E6A434D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontexts\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{327D064E-7501-4BF9-849D-A1472C63A192}|Application\\Application.csproj|d:\\zennova tech\\project\\campusone\\application\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{327D064E-7501-4BF9-849D-A1472C63A192}|Application\\Application.csproj|solutionrelative:application\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|d:\\zennova tech\\project\\campusone\\domain\\entitys\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|solutionrelative:domain\\entitys\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|d:\\zennova tech\\project\\campusone\\domain\\entitys\\student\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD268D7A-FFFE-472F-8E25-4B478B7C33D4}|Domain\\Domain.csproj|solutionrelative:domain\\entitys\\student\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|d:\\zennova tech\\project\\campusone\\campusone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|solutionrelative:campusone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|d:\\zennova tech\\project\\campusone\\campusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}|CampusOne\\CampusOne.csproj|solutionrelative:campusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,81 +58,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\appsettings.json",
-              "RelativeDocumentMoniker": "CampusOne\\appsettings.json",
-              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\appsettings.json",
-              "RelativeToolTip": "CampusOne\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-23T06:24:21.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entitys\\BaseEntity.cs",
-              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Entitys\\BaseEntity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Title": "StudentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Infrastructure\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Infrastructure\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T06:14:15.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RowStatusEnum.cs",
-              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Enums\\RowStatusEnum.cs",
-              "RelativeDocumentMoniker": "Shared\\Enums\\RowStatusEnum.cs",
-              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Enums\\RowStatusEnum.cs",
-              "RelativeToolTip": "Shared\\Enums\\RowStatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T06:13:19.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shared",
-              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Shared.csproj",
-              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
-              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Shared.csproj",
-              "RelativeToolTip": "Shared\\Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-23T06:13:15.164Z",
+              "WhenOpened": "2026-01-22T11:14:11.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T10:40:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\Program.cs",
               "RelativeDocumentMoniker": "CampusOne\\Program.cs",
               "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\Program.cs",
               "RelativeToolTip": "CampusOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T06:06:13.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:59:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\appsettings.json",
+              "RelativeDocumentMoniker": "CampusOne\\appsettings.json",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\CampusOne\\appsettings.json",
+              "RelativeToolTip": "CampusOne\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T08:58:55.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ServicesRegistration.cs",
-              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Application\\ServicesRegistration.cs",
-              "RelativeDocumentMoniker": "Application\\ServicesRegistration.cs",
-              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Application\\ServicesRegistration.cs",
-              "RelativeToolTip": "Application\\ServicesRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\Student\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entitys\\Student\\StudentEntity.cs",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\Student\\StudentEntity.cs",
+              "RelativeToolTip": "Domain\\Entitys\\Student\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T06:05:44.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:55:25.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entitys\\BaseEntity.cs",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Domain\\Entitys\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entitys\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:55:07.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Infrastructure\\DbContexts\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContexts\\StudentDbContext.cs",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Infrastructure\\DbContexts\\StudentDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DbContexts\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:48:34.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RowStatusEnum.cs",
+              "DocumentMoniker": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Enums\\RowStatusEnum.cs",
+              "RelativeDocumentMoniker": "Shared\\Enums\\RowStatusEnum.cs",
+              "ToolTip": "D:\\Zennova Tech\\Project\\CampusOne\\Shared\\Enums\\RowStatusEnum.cs",
+              "RelativeToolTip": "Shared\\Enums\\RowStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:45:56.705Z"
             }
           ]
         }
