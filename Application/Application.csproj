@@ -17,11 +17,10 @@
 
   <ItemGroup>
     <Folder Include="DTO\" />
-    <Folder Include="Module\LabInCharge\" />
-    <Folder Include="Module\Librarian\" />
-    <Folder Include="Module\SportsStaff\" />
-    <Folder Include="Module\Teacher\" />
-    <Folder Include="Module\Student\" />
+    <Folder Include="Features\Student\Validators\" />
+    <Folder Include="Features\Student\Services\" />
+    <Folder Include="Interfaces\IServices\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
