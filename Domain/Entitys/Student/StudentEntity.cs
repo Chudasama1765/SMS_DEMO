@@ -8,6 +8,8 @@ namespace CampusOne.Domain.Entitys.Student
 {
     public class StudentEntity : BaseEntity
     {
-        public string Name { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
     }
 }

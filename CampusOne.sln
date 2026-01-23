@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampusOne", "CampusOne\CampusOne.csproj", "{A404E38B-43D5-44E7-B0A3-C6B95C8D5F56}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{327D064E-7501-4BF9-849D-A1472C63A192}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6DA1CBF9-7313-435C-BA75-DCB4AE30962F} = {6DA1CBF9-7313-435C-BA75-DCB4AE30962F}
+		{CD268D7A-FFFE-472F-8E25-4B478B7C33D4} = {CD268D7A-FFFE-472F-8E25-4B478B7C33D4}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{0CC1BAAA-A03C-4632-947E-7DB33E6A434D}"
 EndProject
