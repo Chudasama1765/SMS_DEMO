@@ -8,8 +8,8 @@ namespace CampusOne.Shared.Enums
 {
     public enum Row_Status_Enum
     {
-        IsDeleted,
-        Active,
-        DeActive
+        Deleted = -1,
+        Inactive = 0,
+        Active = 1
     }
 }
